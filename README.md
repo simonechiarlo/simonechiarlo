@@ -4,7 +4,7 @@ I'm constantly learning and building innovative solutions. Here's a glimpse into
 
 ## About Me
 
-I'm currently in my second year as a Computer Science student at the University of Genoa, and I work as a Blueprint Manager, where I combine my passion for Software Architecture, Business Analysis and UX/UI.
+I'm currently in my second year as a Computer Science student at the University of Genoa, and I work as a Blueprint Manager, where I combine my passion for Software Architecture, Functional Analysis and UX/UI.
 
 With 2 years of experience as a front-end developer and 5 years of background in computer science from a technical high school, I specialize in building scalable, user-friendly interfaces. 
 
@@ -16,7 +16,7 @@ My goal is to create impactful, well-architected software that enhances the user
 C, C++, Java, JavaScript, TypeScript, SQL, HTML, CSS, Markdown
 
 **Frameworks & Libraries:**  
-React, Redux, Astro, Next.js, Prisma, Drizzle, Socket.IO, WebSockets, Tailwind CSS, Express.js
+React, Redux, Astro, Next.js, Prisma, Drizzle, Socket.IO, WebSockets, Tailwind CSS, Express.js, ElysiaJS
 
 **Tools:**  
 Azure DevOps, Azure Cloud, CI/CD Pipelines, Docker
